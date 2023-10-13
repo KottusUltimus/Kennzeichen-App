@@ -1,0 +1,32 @@
+[
+  {
+    "kuerzel": "OH",
+    "name": "Ostholstein",
+    "kreis": "Kreis Ostholstein",
+    "bundesland": "Schleswig-Holstein"
+  },
+  {
+    "kuerzel": "PLÖ",
+    "name": "Plön",
+    "kreis": "Kreis Plön",
+    "bundesland": "Schleswig-Holstein"
+  },
+  {
+    "kuerzel": "SL",
+    "name": "Schleswig",
+    "kreis": "Kreis Schleswig-Flensburg",
+    "bundesland": "Schleswig-Holstein"
+  },
+  {
+    "kuerzel": "L",
+    "name": "Leipzig",
+    "kreis": "Stadt Leipzig",
+    "bundesland": "Sachsen"
+  },
+  {
+    "kuerzel": "HH",
+    "name": "Hansestadt Hamburg",
+    "kreis": "Freie Hansestadt Hamburg",
+    "bundesland": "Hamburg"
+  }
+]
